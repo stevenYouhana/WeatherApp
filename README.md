@@ -1,2 +1,2 @@
 # WeatherApp
-using API to retrieve weather information to e displayed on a JS app
+using API to retrieve weather information to be displayed on a JS app
